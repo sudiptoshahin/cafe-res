@@ -1,4 +1,4 @@
-![alt text](image.png)
+![alt text](preview.png)
 
 __A simple app only hold the frontend ui interface by using react and next js__
 
